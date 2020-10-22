@@ -4,6 +4,8 @@
 **NewbRangerTom/NewbRangerTom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
+This Bio is a work in progress.  I edit this as time permits.
+
 I'm new to writing any kind of programming code.  I started out with Arduino IDE and am starting to use Visual Studio Code and PlatformIO.
 I prefer using the NodeMCU v2 for prototyping and testing my code but I have UNO clones and D1 Mini’s also. 
 
