@@ -2,9 +2,8 @@
 
 <!--
 **NewbRangerTom/NewbRangerTom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
 This Bio is a work in progress.
+-->
 
 I'm new to writing any kind of programming language.
 I started with using the Arduino IDE. I have started using Visual Studio Code with PlatformIO for embedded projects.
