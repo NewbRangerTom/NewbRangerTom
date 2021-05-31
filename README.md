@@ -6,7 +6,7 @@ This Bio is a work in progress.
 -->
 
 I'm new to writing any kind of programming language.
-I started with using the Arduino IDE. I have started using Visual Studio Code with PlatformIO for embedded projects.
+I started with using the Arduino IDE. I have started using Visual Studio Code with PlatformIO and Visual Studio for my projects.
 I prefer using the NodeMCU v2 for prototyping and testing my code. I also have Arduino UNO clones and D1 Mini’s.
 
 I am using Visual Studio Community for wrting source code in C++ and HTML/CSS.
