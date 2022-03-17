@@ -13,7 +13,7 @@ I am using Visual Studio Community for wrting source code in C++ and HTML/CSS.
 
 Something more about me:
 
-- 😄 Pronouns: ... He/Him/Lord/SSG (becasue we all need to be addressed by something).
+- 😄 Pronouns: ... He/Him/SSG (becasue we all need to be addressed by something).
 - ⚡ Fun fact: ... I was an Army Multi-Channel Communications Specialist for 20 years.  I retired as a Staff Sergeant.
 - ⚡ Fun fact: ... I am a Scottish Lord by Proclamation.  I am also a decendent of Robert De Bruce, King of Scotland.
 
