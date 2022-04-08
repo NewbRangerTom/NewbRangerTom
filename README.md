@@ -17,17 +17,14 @@ Something more about me:
 
 - 😄 Pronouns: ... He/Him/SSG (becasue we all need to be addressed by something).
 - ⚡ Fun fact: ... I was an Army Multi-Channel Communications Specialist for 20 years.  I retired as a Staff Sergeant.
-- ⚡ Fun fact: ... I am a Scottish Lord by Proclamation.
--              ...  Robert De Bruce, King of Scotland, was one of my great (21 gen's back) Uncle's.  I am a descendent
--                   of his brother Bernardus.
+- ⚡ Fun fact: ... I am a Scottish Lord by Proclamation.  Robert De Bruce, King of Scotland, was one of my great (21 gen's back) Uncle's.  I am a descendent of his brother Bernardus.
 
 - 🌱 I’m currently learning: C++, Python, HTML/CSS, Embedded Systems, SQL/Database Management, and data analytics. 
-- 👨‍🎓 My current eduction goals: I finished my AAS in Computer Information Technology in Dec 2021.
--                               I started working on Bachelors level courses. (2022)
+- 👨‍🎓 My current eduction goals: I finished my AAS in Computer Information Technology in Dec 2021.  I started working on Bachelors level courses. (2022)
 
 - 🔭 I’m currently working on:
--           1. RGB LED lights for Christmas decorations. (2022)
--           2. Adding a button function to the ESP8266 Weather Station for selectable location ID's.
+--          1. RGB LED lights for Christmas decorations. (2022)
+--          2. Adding a button function to the ESP8266 Weather Station for selectable location ID's.
 -           
 - 🔭 My repositories include two versions of a Towing Payload Calculator inspired by Ian @ Big Rock Media.  Ian created his calculator in Excel.
       -- The first is towCalc and is functional C++
