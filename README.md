@@ -17,7 +17,9 @@ Something more about me:
 
 - 😄 Pronouns: ... He/Him/SSG (becasue we all need to be addressed by something).
 - ⚡ Fun fact: ... I was an Army Multi-Channel Communications Specialist for 20 years.  I retired as a Staff Sergeant.
-- ⚡ Fun fact: ... I am a Scottish Lord by Proclamation.  Robert De Bruce, King of Scotland, was one of my great (21 gen's back) Uncle.
+- ⚡ Fun fact: ... I am a Scottish Lord by Proclamation.
+-              ...  Robert De Bruce, King of Scotland, was one of my great (21 gen's back) Uncle's.  I am a descendent
+-                   of his brother Bernardus.
 
 - 🌱 I’m currently learning: C++, Python, HTML/CSS, Embedded Systems, SQL/Database Management, and data analytics. 
 - 👨‍🎓 My current eduction goals: I finished my AAS in Computer Information Technology in Dec 2021.
