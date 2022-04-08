@@ -27,14 +27,14 @@ Something more about me:
 2. Adding a button function to the ESP8266 Weather Station for selectable location ID's.
            
 - 🔭 My repositories include two versions of a Towing Payload Calculator inspired by Ian @ Big Rock Media.  Ian created his calculator in Excel.
-The first is towCalc and is functional C++
-The second is OOPtowCalc and is my attempt at Object Oriented C++
-Update on this project: there was no interest in this so it died an un-noticed death sometime in 2021.
+- - The first is towCalc and is functional C++
+- - The second is OOPtowCalc and is my attempt at Object Oriented C++
+- - Update on this project: there was no interest in this so it died an un-noticed death sometime in 2021.
 
 - 🤔 👯 I’m looking for help with and/or collaborate on...
-Any idea's to streamline my button sketch (The tidier the better for using with the Weather Station sketch).
-Suggestions on ways to improve the code in my OOPtowCalc (this is my first attempt at writting object oriented C++)
-Suggestions on ways to imrpove my towCalc code.
+- - Any idea's to streamline my button sketch (The tidier the better for using with the Weather Station sketch).
+- - Suggestions on ways to improve the code in my OOPtowCalc (this is my first attempt at writting object oriented C++)
+- - Suggestions on ways to imrpove my towCalc code.
 
 <!-- - 🎇 Ask me about ... -->
 - 📫 How to reach me: tomthetech34953@gmail.com
