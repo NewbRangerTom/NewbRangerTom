@@ -23,8 +23,8 @@ Something more about me:
 - 👨‍🎓 My current eduction goals: I finished my AAS in Computer Information Technology in Dec 2021.  I started working on Bachelors level courses. (2022)
 
 - 🔭 I’m currently working on:
-- -    1. RGB LED lights for Christmas decorations. (2022)
-- -    2. Adding a button function to the ESP8266 Weather Station for selectable location ID's.
+- --    1. RGB LED lights for Christmas decorations. (2022)
+- --    2. Adding a button function to the ESP8266 Weather Station for selectable location ID's.
            
 - 🔭 My repositories include two versions of a Towing Payload Calculator inspired by Ian @ Big Rock Media.  Ian created his calculator in Excel.
 -   - The first is towCalc and is functional C++
