@@ -19,7 +19,14 @@ Something more about me:
 - ⚡ Fun fact: ... I was an Army Multi-Channel Communications Specialist for 20 years.  I retired as a Staff Sergeant.
 - ⚡ Fun fact: ... I am a Scottish Lord by Proclamation.  Robert De Bruce, King of Scotland, was one of my great (21 gen's back) Uncle's.  I am a descendent of his brother Bernardus.
 
-- 🌱 I’m currently learning: C++, Python, HTML/CSS, Embedded Systems, SQL/Database Management, and data analytics. 
+- 🌱 I’m currently learning:
+  * C++
+  * Python
+  * front-End Dev (HTML, CSS, JavaScript)
+  * Embedded Systems
+  * SQL/Database Management
+  * data analytics
+ 
 - 👨‍🎓 My current eduction goals: I finished my AAS in Computer Information Technology in Dec 2021.  I started working on Bachelors level courses. (2022)
 
 - 🔭 I’m currently working on:
