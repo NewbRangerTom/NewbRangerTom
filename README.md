@@ -22,7 +22,7 @@ Something more about me:
 - 🌱 I’m currently learning:
   * C++
   * Python
-  * front-End Dev (HTML, CSS, JavaScript)
+  * Front-End Dev (HTML, CSS, JavaScript)
   * Embedded Systems
   * SQL/Database Management
   * data analytics
